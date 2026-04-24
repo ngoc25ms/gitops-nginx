@@ -21,7 +21,8 @@ data:
       <div class="card">
         <h1>Hello from ArgoCD!</h1>
         <p>App nay duoc deploy tu Git boi ArgoCD</p>
-        <div class="badge">version: v1.0.0</div>
+        <p style="color:#3fb950; margin-top:8px;">GitOps: chi can push Git, khong can kubectl!</p>
+        <div class="badge">version: v2.0.0</div>
       </div>
     </body>
     </html>
