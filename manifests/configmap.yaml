@@ -5,4 +5,4 @@ metadata:
   namespace: nginx-demo
 data:
   index.html: |
-    <h5>Hello from GitOps - bai 5</h5>
+    <h5>Hello from GitOps - bai 7</h5>
