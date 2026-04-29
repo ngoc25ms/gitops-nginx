@@ -5,5 +5,4 @@ metadata:
   namespace: nginx-demo
 data:
   index.html: |
-    <h5>Hello from GitOps - change v3>v2</span></h5>
-    <p>Deploy by ArgoCD at 2026-04-29</p>
+    <h5>Hello from GitOps - bai 5</h5>
