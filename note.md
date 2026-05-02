@@ -11,5 +11,5 @@ argocd login port-forward `
 
 ### Get App
   ```bash
-  argocd app list --port-forward --port-forward-namespace argocd
+  argocd app list --port-forward-namespace argocd
   ```

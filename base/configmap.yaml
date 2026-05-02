@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: nginx-html
+  namespace: nginx-demo
+data:
+  index.html: |
+    <h5>Hello from GitOps - bai 7</h5>
