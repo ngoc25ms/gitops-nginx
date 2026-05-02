@@ -1,0 +1,6 @@
+envName: staging
+replicaCount: 2
+image:
+  tag: "1.27"
+content:
+  message: "Hello from STAGING"

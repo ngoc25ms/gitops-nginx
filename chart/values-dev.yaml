@@ -1,0 +1,6 @@
+envName: dev
+replicaCount: 1
+image:
+  tag: "1.27"
+content:
+  message: "Hello from DEV"

@@ -1,0 +1,13 @@
+envName: prod
+replicaCount: 5
+image:
+  tag: "1.27"
+content:
+  message: "Hello from PROD"
+resources:
+  requests:
+    cpu: 100m
+    memory: 128Mi
+  limits:
+    cpu: 500m
+    memory: 256Mi
